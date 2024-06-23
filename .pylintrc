@@ -1,0 +1,6 @@
+[pylint]
+disable = W1514,  # unspecified-encoding
+          W0238,  # unused-private-member
+          W0718,  # broad-exception-caught
+          W0719,  # broad-exception-raised
+          W3101   # missing-timeout
